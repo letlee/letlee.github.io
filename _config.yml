@@ -30,7 +30,7 @@ twitter_username: none
 github_username:  letlee
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 

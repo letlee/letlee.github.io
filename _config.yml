@@ -18,21 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The first test blog for tlee
+title: A personal blog for tlee
 email: checkup@email.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://letlee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://actlee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: none
-github_username:  letlee
+github_username:  actlee
 
 # Build settings
 # theme: jekyll-theme-minimal
 # theme: jekyll-theme-cayman
-theme: 
+theme:
 plugins:
   - jekyll-feed
 

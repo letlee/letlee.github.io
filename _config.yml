@@ -36,6 +36,16 @@ theme:
 plugins:
   - jekyll-feed
 
+# https://desiredpersona.com/disqus-comments-jekyll/
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: letlee-github-io
+
+# Read https://stackoverflow.com/questions/54009824/how-to-build-jekyll-project-production-with-windows-command-line
+environment: production
+
 # permalink: /blog/:year/:month/:day/:title
 
 # gems:

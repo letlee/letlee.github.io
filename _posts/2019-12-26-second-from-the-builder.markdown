@@ -9,3 +9,9 @@ This is a nice markdown template.
 $$
 a+b = c
 $$
+
+and $g+b$
+
+$$
+\text{b} = \frac{a}{b}
+$$

@@ -7,6 +7,13 @@ comments: true
 ---
 This is a nice markdown template.
 
+```m
+a = 0;
+for ii=1:length(x)
+  a = a + 1;
+end
+```
+
 $$
 a+b = c
 $$

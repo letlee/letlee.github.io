@@ -29,6 +29,14 @@ url: "https://actlee.github.io" # the base hostname & protocol for your site, e.
 twitter_username: none
 github_username:  actlee
 
+
+# In order to put code snippets for specific programming languages
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
 # Build settings
 # theme: jekyll-theme-minimal
 # theme: jekyll-theme-cayman

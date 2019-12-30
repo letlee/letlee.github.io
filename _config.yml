@@ -31,6 +31,7 @@ github_username:  actlee
 
 
 # In order to put code snippets for specific programming languages
+# https://bnhr.xyz/2017/03/25/add-syntax-highlighting-to-your-jekyll-site-with-rouge.html
 markdown: kramdown
 
 kramdown:

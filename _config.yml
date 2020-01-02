@@ -31,7 +31,10 @@ github_username:  actlee
 
 
 # In order to put code snippets for specific programming languages
+# A very clear one
 # https://bnhr.xyz/2017/03/25/add-syntax-highlighting-to-your-jekyll-site-with-rouge.html
+# The second one
+# https://simpleit.rocks/ruby/jekyll/what-are-the-supported-language-highlighters-in-jekyll/
 markdown: kramdown
 
 kramdown:
